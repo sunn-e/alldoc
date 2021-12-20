@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "alldoc",
+    "slug": "alldoc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/alldoc-logo.png",
+    "splash": {
+      "image": "./assets/alldoc-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/alldoc-logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/alldoc-logo.png"
+    }
+  }
+}

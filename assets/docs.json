@@ -1,0 +1,589 @@
+﻿{
+  "tech": [
+    {
+      "Name": ".NET Framework",
+      "SomeMeta": "34.20%",
+      "Link": "https://docs.microsoft.com/en-us/dotnet/"
+    },
+    {
+      "Name": "Android Studio",
+      "SomeMeta": "22.22%",
+      "Link": "https://developer.android.com/docs"
+    },
+    {
+      "Name": "Angular",
+      "SomeMeta": "22.96%",
+      "Link": "https://angular.io/docs"
+    },
+    {
+      "Name": "Angular.js",
+      "SomeMeta": "11.49%",
+      "Link": "https://docs.angularjs.org/guide"
+    },
+    {
+      "Name": "Ansible",
+      "SomeMeta": "7.68%",
+      "Link": "https://docs.ansible.com/"
+    },
+    {
+      "Name": "Apache Spark",
+      "SomeMeta": "5.83%",
+      "Link": "https://spark.apache.org/docs/latest/"
+    },
+    {
+      "Name": "APL",
+      "SomeMeta": "0.65%",
+      "Link": "https://developer.amazon.com/en-US/docs/alexa/alexa-presentation-language/apl-document.html"
+    },
+    {
+      "Name": "ASP.NET Core",
+      "SomeMeta": "18.10%",
+      "Link": "https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0"
+    },
+    {
+      "Name": "Assembly",
+      "SomeMeta": "5.61%",
+      "Link": "https://www.cs.virginia.edu/~evans/cs216/guides/x86.html"
+    },
+    {
+      "Name": "AWS",
+      "SomeMeta": "54.22%",
+      "Link": "https://docs.aws.amazon.com/"
+    },
+    {
+      "Name": "Bash/Shell",
+      "SomeMeta": "27.13%",
+      "Link": "https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html"
+    },
+    {
+      "Name": "BSD",
+      "SomeMeta": "0.18%",
+      "Link": "https://www.freebsd.org/docs/"
+    },
+    {
+      "Name": "C",
+      "SomeMeta": "21.01%",
+      "Link": "http://www.open-std.org/jtc1/sc22/wg14/"
+    },
+    {
+      "Name": "C#",
+      "SomeMeta": "27.86%",
+      "Link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+    },
+    {
+      "Name": "C++",
+      "SomeMeta": "24.31%",
+      "Link": "https://isocpp.org/std/the-standard"
+    },
+    {
+      "Name": "Cassandra",
+      "SomeMeta": "5.14%",
+      "Link": "https://cassandra.apache.org/doc/latest/"
+    },
+    {
+      "Name": "Chef",
+      "SomeMeta": "1.35%",
+      "Link": "https://docs.chef.io/"
+    },
+    {
+      "Name": "Clojure",
+      "SomeMeta": "1.88%",
+      "Link": "https://clojure.org/reference/reader"
+    },
+    {
+      "Name": "COBOL",
+      "SomeMeta": "0.53%",
+      "Link": "https://www.ibm.com/docs/en/i/7.1?topic=languages-cobol"
+    },
+    {
+      "Name": "Cordova",
+      "SomeMeta": "7.18%",
+      "Link": "https://cordova.apache.org/docs/en/10.x/"
+    },
+    {
+      "Name": "Couchbase",
+      "SomeMeta": "1.88%",
+      "Link": "https://docs.couchbase.com/home/index.html"
+    },
+    {
+      "Name": "Crystal",
+      "SomeMeta": "0.65%",
+      "Link": "https://crystal-lang.org/docs/"
+    },
+    {
+      "Name": "Dart",
+      "SomeMeta": "6.02%",
+      "Link": "https://dart.dev/guides"
+    },
+    {
+      "Name": "Delphi",
+      "SomeMeta": "2.10%",
+      "Link": "https://docwiki.embarcadero.com/RADStudio/Alexandria/en/Main_Page"
+    },
+    {
+      "Name": "Deno",
+      "SomeMeta": "5.68%",
+      "Link": "https://doc.deno.land/"
+    },
+    {
+      "Name": "DigitalOcean",
+      "SomeMeta": "17.67%",
+      "Link": "https://docs.digitalocean.com/"
+    },
+    {
+      "Name": "Django",
+      "SomeMeta": "14.99%",
+      "Link": "https://docs.djangoproject.com"
+    },
+    {
+      "Name": "Docker",
+      "SomeMeta": "48.85%",
+      "Link": "https://docs.docker.com/"
+    },
+    {
+      "Name": "Drupal",
+      "SomeMeta": "2.39%",
+      "Link": "https://www.drupal.org/documentation"
+    },
+    {
+      "Name": "DynamoDB",
+      "SomeMeta": "7.30%",
+      "Link": "https://docs.aws.amazon.com/dynamodb/"
+    },
+    {
+      "Name": "Eclipse",
+      "SomeMeta": "15.87%",
+      "Link": "https://www.eclipse.org/documentation/"
+    },
+    {
+      "Name": "Elasticsearch",
+      "SomeMeta": "13.27%",
+      "Link": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html"
+    },
+    {
+      "Name": "Elixir",
+      "SomeMeta": "2.90%",
+      "Link": "https://elixir-lang.org/docs.html"
+    },
+    {
+      "Name": "Emacs",
+      "SomeMeta": "5.30%",
+      "Link": "https://www.gnu.org/software/emacs/documentation.html"
+    },
+    {
+      "Name": "Erlang",
+      "SomeMeta": "1.28%",
+      "Link": "https://www.erlang.org/docs"
+    },
+    {
+      "Name": "Express",
+      "SomeMeta": "23.82%",
+      "Link": "https://expressjs.com/"
+    },
+    {
+      "Name": "F#",
+      "SomeMeta": "2.04%",
+      "Link": "https://docs.microsoft.com/en-us/dotnet/fsharp/"
+    },
+    {
+      "Name": "FastAPI",
+      "SomeMeta": "4.13%",
+      "Link": "https://fastapi.tiangolo.com/"
+    },
+    {
+      "Name": "Firebase",
+      "SomeMeta": "16.17%",
+      "Link": "https://firebase.google.com/docs"
+    },
+    {
+      "Name": "Flask",
+      "SomeMeta": "16.14%",
+      "Link": "https://flask.palletsprojects.com"
+    },
+    {
+      "Name": "Flow",
+      "SomeMeta": "1.27%",
+      "Link": "https://flow.org/en/docs/"
+    },
+    {
+      "Name": "Flutter",
+      "SomeMeta": "16.43%",
+      "Link": "https://docs.flutter.dev/"
+    },
+    {
+      "Name": "Gatsby",
+      "SomeMeta": "3.97%",
+      "Link": "https://www.gatsbyjs.com/docs/"
+    },
+    {
+      "Name": "Git",
+      "SomeMeta": "93.43%",
+      "Link": "https://git-scm.com/docs"
+    },
+    {
+      "Name": "Go",
+      "SomeMeta": "14.54%",
+      "Link": "https://go.dev/doc/"
+    },
+    {
+      "Name": "Google Cloud Platform",
+      "SomeMeta": "31.05%",
+      "Link": "https://cloud.google.com/docs"
+    },
+    {
+      "Name": "Groovy",
+      "SomeMeta": "3.01%",
+      "Link": "https://groovy-lang.org/documentation.html"
+    },
+    {
+      "Name": "Hadoop",
+      "SomeMeta": "4.87%",
+      "Link": "https://hadoop.apache.org/docs/stable/"
+    },
+    {
+      "Name": "Haskell",
+      "SomeMeta": "3.14%",
+      "Link": "https://www.haskell.org/documentation/"
+    },
+    {
+      "Name": "Heroku",
+      "SomeMeta": "24%",
+      "Link": "https://devcenter.heroku.com/categories/reference"
+    },
+    {
+      "Name": "HTML/CSS",
+      "SomeMeta": "56.07%",
+      "Link": "https://dev.w3.org/html5/html-author/"
+    },
+    {
+      "Name": "IBM Cloud or Watson",
+      "SomeMeta": "3.24%",
+      "Link": "https://cloud.ibm.com/docs"
+    },
+    {
+      "Name": "IBM DB2",
+      "SomeMeta": "2.04%",
+      "Link": "https://www.ibm.com/docs/en/db2/11.5"
+    },
+    {
+      "Name": "IntelliJ",
+      "SomeMeta": "28.74%",
+      "Link": "https://www.jetbrains.com/help/"
+    },
+    {
+      "Name": "IPython/Jupyter",
+      "SomeMeta": "12.63%",
+      "Link": "https://jupyter.org/documentation"
+    },
+    {
+      "Name": "Java",
+      "SomeMeta": "35.35%",
+      "Link": "https://docs.oracle.com/en/java/"
+    },
+    {
+      "Name": "JavaScript",
+      "SomeMeta": "64.96%",
+      "Link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+      "Name": "jQuery",
+      "SomeMeta": "34.42%",
+      "Link": "https://api.jquery.com/"
+    },
+    {
+      "Name": "Julia",
+      "SomeMeta": "2.10%",
+      "Link": "https://docs.julialang.org/en/v1/"
+    },
+    {
+      "Name": "Keras",
+      "SomeMeta": "10.14%",
+      "Link": "https://keras.io/"
+    },
+    {
+      "Name": "Kotlin",
+      "SomeMeta": "8.57%",
+      "Link": "https://kotlinlang.org/docs/home.html"
+    },
+    {
+      "Name": "Kubernetes",
+      "SomeMeta": "21.97%",
+      "Link": "https://kubernetes.io/docs/home/"
+    },
+    {
+      "Name": "Laravel",
+      "SomeMeta": "10.12%",
+      "Link": "https://laravel.com/docs"
+    },
+    {
+      "Name": "Linux-based",
+      "SomeMeta": "25.32%",
+      "Link": "https://www.kernel.org/doc/html/latest/"
+    },
+    {
+      "Name": "LISP",
+      "SomeMeta": "1.33%",
+      "Link": "https://lisp-lang.org"
+    },
+    {
+      "Name": "MacOS",
+      "SomeMeta": "25.19%",
+      "Link": "https://docs.microsoft.com/en-us/cpp/?view=msvc-170"
+    },
+    {
+      "Name": "MariaDB",
+      "SomeMeta": "17.19%",
+      "Link": "https://mariadb.com/kb/en/documentation/"
+    },
+    {
+      "Name": "Matlab",
+      "SomeMeta": "4.66%",
+      "Link": "https://in.mathworks.com/help/matlab/"
+    },
+    {
+      "Name": "Microsoft Azure",
+      "SomeMeta": "30.77%",
+      "Link": "https://docs.microsoft.com/en-us/azure/?product=popular"
+    },
+    {
+      "Name": "Microsoft SQL Server",
+      "SomeMeta": "26.87%",
+      "Link": "https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15"
+    },
+    {
+      "Name": "MongoDB",
+      "SomeMeta": "27.70%",
+      "Link": "https://docs.mongodb.com/"
+    },
+    {
+      "Name": "MySQL",
+      "SomeMeta": "50.18%",
+      "Link": "https://dev.mysql.com/doc/"
+    },
+    {
+      "Name": "Neovim",
+      "SomeMeta": "4.99%",
+      "Link": "https://neovim.io/doc/user/"
+    },
+    {
+      "Name": "Node.js",
+      "SomeMeta": "33.91%",
+      "Link": "https://nodejs.org/en/docs/"
+    },
+    {
+      "Name": "Notepad++",
+      "SomeMeta": "29.71%",
+      "Link": "https://npp-user-manual.org/"
+    },
+    {
+      "Name": "NumPy",
+      "SomeMeta": "33.84%",
+      "Link": "https://numpy.org/doc/"
+    },
+    {
+      "Name": "Objective-C",
+      "SomeMeta": "2.80%",
+      "Link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+    },
+    {
+      "Name": "Oracle Cloud Infrastructure",
+      "SomeMeta": "2.60%",
+      "Link": "https://docs.oracle.com/en/cloud/get-started/index.html"
+    },
+    {
+      "Name": "Pandas",
+      "SomeMeta": "28.12%",
+      "Link": "https://pandas.pydata.org/docs/"
+    },
+    {
+      "Name": "Perl",
+      "SomeMeta": "2.46%",
+      "Link": "https://perldoc.perl.org/"
+    },
+    {
+      "Name": "PHP",
+      "SomeMeta": "21.98%",
+      "Link": "https://www.php.net/docs.php"
+    },
+    {
+      "Name": "PostgreSQL",
+      "SomeMeta": "40.42%",
+      "Link": "https://www.postgresql.org/docs/"
+    },
+    {
+      "Name": "PowerShell",
+      "SomeMeta": "10.75%",
+      "Link": "https://docs.microsoft.com/en-us/powershell/"
+    },
+    {
+      "Name": "Pulumi",
+      "SomeMeta": "0.95%",
+      "Link": "https://www.pulumi.com/docs/"
+    },
+    {
+      "Name": "Puppet",
+      "SomeMeta": "1.80%",
+      "Link": "https://puppet.com/docs/"
+    },
+    {
+      "Name": "PyCharm",
+      "SomeMeta": "19.29%",
+      "Link": "https://www.jetbrains.com/pycharm/guide/"
+    },
+    {
+      "Name": "Python",
+      "SomeMeta": "48.24%",
+      "Link": "https://docs.python.org"
+    },
+    {
+      "Name": "Qt",
+      "SomeMeta": "9.90%",
+      "Link": "https://doc.qt.io/"
+    },
+    {
+      "Name": "R",
+      "SomeMeta": "5.07%",
+      "Link": "https://www.r-project.org/other-docs.html"
+    },
+    {
+      "Name": "React Native",
+      "SomeMeta": "17.75%",
+      "Link": "https://reactnative.dev/"
+    },
+    {
+      "Name": "React.js",
+      "SomeMeta": "40.14%",
+      "Link": "https://reactjs.org/docs/getting-started.html"
+    },
+    {
+      "Name": "Redis",
+      "SomeMeta": "20.69%",
+      "Link": "https://redis.io/documentation"
+    },
+    {
+      "Name": "RStudio",
+      "SomeMeta": "3.92%",
+      "Link": "https://docs.rstudio.com/"
+    },
+    {
+      "Name": "Ruby",
+      "SomeMeta": "6.75%",
+      "Link": "https://www.ruby-lang.org/en/documentation/"
+    },
+    {
+      "Name": "Ruby on Rails",
+      "SomeMeta": "7.04%",
+      "Link": "https://guides.rubyonrails.org/"
+    },
+    {
+      "Name": "RubyMine",
+      "SomeMeta": "1.49%",
+      "Link": "https://www.jetbrains.com/ruby/learn/"
+    },
+    {
+      "Name": "Rust",
+      "SomeMeta": "14.09%",
+      "Link": "https://doc.rust-lang.org/reference/index.html"
+    },
+    {
+      "Name": "Scala",
+      "SomeMeta": "2.60%",
+      "Link": "https://docs.scala-lang.org/"
+    },
+    {
+      "Name": "Spring",
+      "SomeMeta": "14.56%",
+      "Link": "https://spring.io/"
+    },
+    {
+      "Name": "SQLite",
+      "SomeMeta": "32.18%",
+      "Link": "https://www.sqlite.org/docs.html"
+    },
+    {
+      "Name": "Sublime Text",
+      "SomeMeta": "20.47%",
+      "Link": "https://www.sublimetext.com/docs/"
+    },
+    {
+      "Name": "Svelte",
+      "SomeMeta": "6.57%",
+      "Link": "https://svelte.dev/docs"
+    },
+    {
+      "Name": "Swift",
+      "SomeMeta": "5.10%",
+      "Link": "https://www.swift.org/documentation/"
+    },
+    {
+      "Name": "Symfony",
+      "SomeMeta": "3.85%",
+      "Link": "https://symfony.com/doc/current/index.html"
+    },
+    {
+      "Name": "TensorFlow",
+      "SomeMeta": "21.37%",
+      "Link": "https://www.tensorflow.org/api_docs"
+    },
+    {
+      "Name": "Terraform",
+      "SomeMeta": "7.46%",
+      "Link": "https://www.terraform.io/docs"
+    },
+    {
+      "Name": "TextMate",
+      "SomeMeta": "0.83%",
+      "Link": "https://macromates.com/manual/en/"
+    },
+    {
+      "Name": "Torch/PyTorch",
+      "SomeMeta": "12.06%",
+      "Link": "https://pytorch.org/docs/stable/index.html"
+    },
+    {
+      "Name": "TypeScript",
+      "SomeMeta": "30.19%",
+      "Link": "https://www.typescriptlang.org/docs/"
+    },
+    {
+      "Name": "Vim",
+      "SomeMeta": "24.19%",
+      "Link": "https://www.vim.org/docs.php"
+    },
+    {
+      "Name": "Visual Studio Code",
+      "SomeMeta": "71.06%",
+      "Link": "https://code.visualstudio.com/docs"
+    },
+    {
+      "Name": "Vue.js",
+      "SomeMeta": "18.97%",
+      "Link": "https://vuejs.org"
+    },
+    {
+      "Name": "Windows",
+      "SomeMeta": "45.33%",
+      "Link": "https://docs.microsoft.com/en-us/windows/"
+    },
+    {
+      "Name": "Windows Subsystem for Linux (WSL)",
+      "SomeMeta": "3.29%",
+      "Link": "https://docs.microsoft.com/en-us/windows/wsl/about"
+    },
+    {
+      "Name": "Xamarin",
+      "SomeMeta": "3.90%",
+      "Link": "https://docs.microsoft.com/en-us/xamarin/"
+    },
+    {
+      "Name": "Xcode",
+      "SomeMeta": "11.07%",
+      "Link": "https://developer.apple.com/documentation/xcode"
+    },
+    {
+      "Name": "Yarn",
+      "SomeMeta": "17.73%",
+      "Link": "https://classic.yarnpkg.com/lang/en/docs/"
+    }
+  ]
+}
